@@ -84,7 +84,7 @@
 
 .slick-active button:after {
   background-color: #fff000;
-  animation: progress 15s linear forwards;
+  animation: progress 20s linear forwards;
 }
 @keyframes progress {
   from {

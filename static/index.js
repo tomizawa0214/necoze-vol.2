@@ -4,7 +4,7 @@ $(function () {
     arrows: false,
     fade: true,
     asNavFor: ".thumbnail",
-    autoplaySpeed: 15000,
+    autoplaySpeed: 20000,
     dots: true,
     arrows: false,
     dotsClass: 'slider-dots',
